@@ -64,6 +64,26 @@ Before the deadline:
 
 ---
 
+## Viewing Autograding Results
+
+Most assignments include automated tests that run when you push your code. To see your results:
+
+1. Go to your repository on GitHub.com
+2. Click the **Actions** tab
+3. Look for the most recent workflow run:
+   - ✅ Green checkmark = all tests passed
+   - ❌ Red X = one or more tests failed
+4. Click on the workflow run to see details
+5. Click on "Autograding" to see your score breakdown
+
+**If tests fail:**
+- Click into the failed job to see the error message
+- Fix the issue in VS Code
+- Commit and push again — tests run automatically on each push
+- You can push as many times as needed before the deadline
+
+---
+
 ## VS Code Git Integration
 
 | Action | How |
