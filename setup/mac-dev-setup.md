@@ -157,7 +157,7 @@ Should show: `git version 2.x.x` or similar
 
 ## Next Steps
 
-After completing this setup, see [GitHub Classroom Setup](github-classroom-setup.md) to configure your GitHub account and learn the assignment workflow.
+After completing this setup, see [GitHub Classroom Reference](../reference/github-classroom-reference.md) to learn the assignment workflow.
 
 ---
 
