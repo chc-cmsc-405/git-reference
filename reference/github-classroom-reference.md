@@ -1,23 +1,6 @@
-# GitHub Classroom Setup
+# GitHub Classroom Reference
 
-How to set up GitHub and work with assignments using GitHub Classroom.
-
----
-
-# Required Setup
-
-Complete this step before the first assignment.
-
-## GitHub Account
-
-**Already have a GitHub account?** You're all set — skip to Assignment Workflow below.
-
-**Need to create one?**
-
-1. Go to: https://github.com/signup
-2. Use any email address (personal or school — either is fine)
-3. Choose a professional username (employers may see this)
-4. Verify your email address
+How to work with assignments using GitHub Classroom.
 
 ---
 

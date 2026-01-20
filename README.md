@@ -15,10 +15,6 @@ Choose your platform:
 - [Windows Setup](setup/windows-dev-setup.md) — VS Code, MinGW (C++), Java, Go, Git
 - [Mac Setup](setup/mac-dev-setup.md) — VS Code, Xcode tools (C++), Java, Go
 
-### GitHub Classroom
-
-- [GitHub Classroom Setup](setup/github-classroom-setup.md) — Account setup, authentication, assignment workflow
-
 ---
 
 ## Reference Guides
@@ -29,6 +25,7 @@ Quick references for tools and concepts used throughout the course.
 
 - [Git Reference](reference/git-reference.md) — Command-line Git commands
 - [GitHub Actions Reference](reference/github-actions-reference.md) — CI/CD pipelines, workflows, autograding
+- [GitHub Classroom Reference](reference/github-classroom-reference.md) — Assignment workflow, submissions, autograding
 
 ### Testing
 
