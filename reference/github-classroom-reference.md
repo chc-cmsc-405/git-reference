@@ -10,6 +10,13 @@ How to work with assignments using GitHub Classroom.
 
 1. Click the assignment link provided in Canvas
 2. Accept the assignment (this creates your personal repository)
+3. **Important:** After accepting, you may see a "Repository Access Issue" error that says "You no longer have access to your assignment repository." This is a known issue. To fix it:
+   - Go to https://github.com/notifications (or click the bell icon on GitHub)
+   - Look for an invitation to collaborate on your new repository
+   - Click "Accept invitation"
+   - Return to the assignment link — you should now have access
+
+> **Note:** You won't be able to clone or access your repository until you accept the invitation. If you continue to have issues, contact your instructor.
 
 ## Clone Your Repository
 
