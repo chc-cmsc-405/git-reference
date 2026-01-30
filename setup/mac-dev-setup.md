@@ -87,6 +87,9 @@ If Git is not installed, the easiest way is to complete Step 2 (Xcode Command Li
    - [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) (by Microsoft)
    - [Go](https://marketplace.visualstudio.com/items?itemName=golang.go) (by Go Team at Google)
 
+4. **Optional but recommended:**
+   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) (by Jun Han) — Run code with `Ctrl+Option+N`, outputs to Terminal
+
 **Verify extensions are installed:**
 
 First, enable the `code` command (one-time setup):
