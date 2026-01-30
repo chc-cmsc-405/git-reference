@@ -102,6 +102,9 @@ You will install the following:
    - [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) (by Microsoft)
    - [Go](https://marketplace.visualstudio.com/items?itemName=golang.go) (by Go Team at Google)
 
+4. **Optional but recommended:**
+   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) (by Jun Han) — Run code with `Ctrl+Alt+N`, outputs to Terminal
+
 **Verify extensions are installed:**
 
 Open the VS Code integrated terminal (View menu → Terminal, or press Ctrl and the backtick key) and run:

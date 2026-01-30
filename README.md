@@ -14,6 +14,7 @@ Choose your platform:
 
 - [Windows Setup](setup/windows-dev-setup.md) — VS Code, MinGW (C++), Java, Go, Git
 - [Mac Setup](setup/mac-dev-setup.md) — VS Code, Xcode tools (C++), Java, Go
+- [Running Code in VS Code](reference/running-code-in-vscode.md) — How to run C++, Java, and Go programs
 
 ---
 
