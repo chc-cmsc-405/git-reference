@@ -124,6 +124,7 @@ Future Go assignments will have their own folders where the VS Code "run" link w
 - Install Go tools when prompted (or run `Go: Install/Update Tools` from Command Palette)
 
 **"go: command not found"**
+
 - Go is not installed or not in PATH
 - Revisit the dev environment setup guide
 
