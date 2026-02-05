@@ -102,8 +102,15 @@ You will install the following:
    - [Extension Pack for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) (by Microsoft)
    - [Go](https://marketplace.visualstudio.com/items?itemName=golang.go) (by Go Team at Google)
 
-4. **Optional but recommended:**
-   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) (by Jun Han) — Run code with `Ctrl+Alt+N`, outputs to Terminal
+4. **Required for running code:**
+   - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) (by Jun Han) — Run code with `Ctrl+Alt+N`
+
+5. **Configure Code Runner** (required for user input):
+   - Open Settings: `Ctrl+,`
+   - Search: `code-runner.runInTerminal`
+   - Check the box for **"Code-runner: Run In Terminal"**
+
+   > **Why?** Without this setting, programs run in VS Code's Output panel, which is read-only. Any code using `cin`, `Scanner`, or other input will hang. This setting runs code in the Terminal instead, where you can type input.
 
 **Verify extensions are installed:**
 
@@ -114,6 +121,7 @@ code --list-extensions
 
 Your output should include these extensions (other extensions may also be listed, which is fine):
 ```
+formulahendry.code-runner
 golang.go
 ms-vscode.cpptools
 redhat.java
